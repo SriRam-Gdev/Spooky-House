@@ -1,6 +1,7 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using StealthGame;
 
 namespace StealthGame
 {
@@ -8,6 +9,7 @@ namespace StealthGame
     {
         public Transform player;
         public GameEnding gameEnding;
+
 
         bool m_IsPlayerInRange;
 
