@@ -6,7 +6,7 @@ A short spooky exploration horror experience made in Unity .
 Walk through a cursed house, follow the path, and survive the vibe. Headphones recommended. 🎧👻
 
 ## ▶️ Play the Game
-- **Unity Play (WebGL):** https://play.unity.com/api/v1/games/game/b6d25861-ac27-4898-bcc9-b0adce82c716/build/latest/frame
+- **Unity Play (WebGL):play.unity.com/en/games/b6d25861-ac27-4898-bcc9-b0adce82c716/spooky-house
 
 - **WASD** — Move  
 
@@ -26,6 +26,7 @@ Walk through a cursed house, follow the path, and survive the vibe. Headphones r
 ## 🛠️ Built With
 - **Unity** (Unity Learn project)
 - Platform: **WebGL**
+
 
 
 
